@@ -1,0 +1,24 @@
+body{
+    background-color:#D8D8D8;
+}
+
+.top{
+    background-color:#303030;
+    height:120px;
+}
+
+
+.middle{
+    background-color:#FFFFFF;
+    margin:auto;
+    width: 75%;
+    height:100vh;
+}
+
+.bottom{
+    background-color: #080808;
+        width:75%;
+     position: static;
+    margin:auto;
+    height:100px;
+}
