@@ -4,21 +4,21 @@ body{
 
 .top{
     background-color:#303030;
-    height:120px;
+    height:170px;
 }
 
 
 .middle{
     background-color:#FFFFFF;
     margin:auto;
-    width: 75%;
+    width: 696px;
     height:100vh;
 }
 
 .bottom{
     background-color: #080808;
-        width:75%;
+        width:696px;
      position: static;
     margin:auto;
-    height:99px;
+    height:81px;
 }
