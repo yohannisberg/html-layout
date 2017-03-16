@@ -1,0 +1,30 @@
+.everything{
+  display:flex;
+  flex-wrap: wrap;
+}
+
+.blue{
+  background-color:blue;
+  width:33%;
+  height:100vh;
+}
+
+.turqoise{
+  background-color:#40E0D0;
+  width:33%;
+  height:100vh;
+}
+
+.green{
+  background-color:green;
+  width:33%;
+  height:100vh;
+}
+
+.red{
+  background-color:red;
+  width:32.45%;
+  height:180px;
+position:absolute;
+bottom:-8px;
+}
